@@ -1,11 +1,13 @@
 -Quick Start
 Get the code
+
 git clone 
 
 
 -Install dependencies
 
 npm install
+
 Run it locally
 
 npm run dev
@@ -14,6 +16,7 @@ Open http://localhost:3000 in your browser.
 
 
 -Customize It
+
 Change text and images
 Edit the files in pages/ and public/ to swap in your own content.
 
