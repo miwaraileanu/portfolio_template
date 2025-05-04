@@ -1,6 +1,6 @@
 -Quick Start
 Get the code
-git clone https://github.com/YOUR_USERNAME/YOUR_PROJECT.git  
+git clone 
 
 
 -Install dependencies
